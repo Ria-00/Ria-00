@@ -1,4 +1,4 @@
-### hi there 👋
+### Hey there 👋
 
 # 💫 About Me:
 🔭 I'm Riya Singh, pursuing Bachelors of Technology in Computer science under full-stack Specialization.<br><br>🌱 I’m currently learning UI/UX designing.<br><br>⚡ Fun fact: Beyond my technical prowess, I am deeply passionate about dance.<br><br>💬 Feel free to connect with me on LinkedIn or drop me an email at singhriyaa006@gmail.com. <br>
